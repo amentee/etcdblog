@@ -1,0 +1,4 @@
+baseURL = 'https://amentee.github.io/'
+languageCode = 'en-us'
+title = 'etcd blog'
+theme = 'ananke'
