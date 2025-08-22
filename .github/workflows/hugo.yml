@@ -21,7 +21,7 @@ jobs:
           extended: true
 
       - name: Build
-        run: hugo --minify --source etcdblog/myblog
+        run: hugo --minify --source myblog
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
